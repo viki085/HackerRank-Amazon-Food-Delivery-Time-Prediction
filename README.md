@@ -1,2 +1,2 @@
-# Hackerrank-Amazon-Food-Delivery-Time-Prediction
-Hacker rank Competition by Amazon 
+# HackerRank-Amazon-Food-Delivery-Time-Prediction
+Hacker Rank Competition by Amazon 
